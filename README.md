@@ -1,5 +1,4 @@
 
-<h1 align="center">I'm Masaki Kitagawa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0114msk&label=Profile%20views&color=0e75b6&style=flat" alt="0114msk" /> </p>
 
 - 📫 How to reach me **3454k1.k@gmail.com**
